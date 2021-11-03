@@ -33,4 +33,9 @@ class MemberTest {
     @Test
     void type() {
     }
+
+    @Test
+    void main() {
+    }
+
 }
